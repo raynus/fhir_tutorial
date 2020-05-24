@@ -1,0 +1,65 @@
+{
+  "resourceType": "ConceptMap",
+  "title": "glipizidemap1",
+  "status": "draft",
+  "contact": [
+    {
+      "telecom": [
+        {
+          "system": "email"
+        }
+      ]
+    },
+    {
+      "telecom": [
+        {
+          "system": "email"
+        }
+      ]
+    },
+    {
+      "telecom": [
+        {
+          "system": "email"
+        }
+      ]
+    }
+  ],
+  "group": [
+    {
+      "element": [
+        {
+          "target": [
+            {
+              "code": "304553",
+              "display": "DEPIZIDE (พอนด์เคมีคอล) (glipizide 5 mg) tablet, 1 tablet"
+            }
+          ],
+          "code": "101",
+          "display": "First glipizide 5mg"
+        },
+        {
+          "target": [
+            {
+              "code": "304576",
+              "display": "DEPIZIDE (ยูเมด้า) (glipizide 5 mg) tablet, 1 tablet"
+            }
+          ],
+          "code": "102",
+          "display": "Second glipizide 5mg"
+        }
+      ],
+      "source": "http://hospital.com/glipizide",
+      "target": "http://this.or.th/tmt"
+    }
+  ],
+  "url": "http://glipizidemap1",
+  "description": "Glipizide map to TMT",
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>glipizidemap1</h2><tt>http://glipizidemap1</tt><p>Glipizide map to TMT</p></div>"
+  },
+  "sourceCanonical": "http://hospital.com/glipizide",
+  "targetCanonical": "http://this.org/tmt",
+  "name": "Glipizidemap1"
+}

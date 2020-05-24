@@ -1,0 +1,35 @@
+{
+  "resourceType": "CodeSystem",
+  "title": "hospglipizide",
+  "url": "http://hospital.com/glipizide",
+  "status": "draft",
+  "contact": [
+    {
+      "telecom": [
+        {
+          "system": "email"
+        }
+      ]
+    }
+  ],
+  "description": "local glipizide code",
+  "compositional": false,
+  "content": "complete",
+  "concept": [
+    {
+      "code": "101",
+      "display": "First glipizide 5mg"
+    },
+    {
+      "code": "102",
+      "display": "Second glipizide 5mg"
+    }
+  ],
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h2>hospglipizide</h2><tt>http://hospital.com/glipizide</tt><p>local glipizide code</p></div>"
+  },
+  "id": "0aa30a28-4723-465c-91ed-592dc2052cf1",
+  "count": 3,
+  "name": "Hospglipizide"
+}
